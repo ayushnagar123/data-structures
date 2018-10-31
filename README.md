@@ -1,2 +1,3 @@
 # data-structures
-various data structures using stl and there various implementation
+One can add various Data Structures with or without using stl and there various implementation here.
+Beginner Friendly..
